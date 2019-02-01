@@ -1,0 +1,13 @@
+== Info: Rebuilt URL to: dump.txt/
+== Info: Could not resolve host: dump.txt
+== Info: Closing connection 0
+== Info: Rebuilt URL to: facebook.com/
+== Info:   Trying 31.13.81.36...
+== Info: TCP_NODELAY set
+== Info: Connected to facebook.com (31.13.81.36) port 80 (#1)
+=> Send header, 76 bytes (0x4c)
+0000: 47 45 54 20 2f 20 48 54 54 50 2f 31 2e 31 0d 0a GET / HTTP/1.1..
+0010: 48 6f 73 74 3a 20 66 61 63 65 62 6f 6f 6b 2e 63 Host: facebook.c
+0020: 6f 6d 0d 0a 55 73 65 72 2d 41 67 65 6e 74 3a 20 om..User-Agent: 
+0030: 63 75 72 6c 2f 37 2e 35 34 2e 30 0d 0a 41 63 63 curl/7.54.0..Acc
+0040: 65 70 74 3a 20 2a 2f 2a 0d 0a 0d 0a             ept: */*....
